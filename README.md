@@ -59,3 +59,10 @@
 <img src="/screenshots/Error-10.png" alt="...">
 ### Paso
 <img src="/screenshots/Paso-10.png" alt="...">
+
+## Funcionamiento de aplicación
+<img src="/screenshots/captura_nieves_1.jpeg" alt="...">
+
+<img src="/screenshots/captura_nieves_2.jpeg" alt="...">
+
+<img src="/screenshots/captura_nieves_3.jpeg" alt="...">
